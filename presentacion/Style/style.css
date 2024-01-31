@@ -1,0 +1,26 @@
+#registrar{
+    padding-right: 10%;
+    padding-top: 14%;
+    padding-bottom: 14%;
+    padding-left: 10%;
+}
+
+@media (min-width: 768px) { 
+    
+#TablaNavegacion{
+    position: fixed;
+}
+}
+
+
+#svgIcon{
+    position: fixed;
+    bottom: 55px;
+    right: 70px;
+}
+
+#bodyIndex{
+    background-image: url(../Img/fondo_verde.jpg);
+    background-repeat: no-repeat;
+    background-position: 23% 32%;
+}
